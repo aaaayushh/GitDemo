@@ -9,11 +9,13 @@
 		<li> Home </li>
 		<li> About us! </li>
 		<li> Product </li>
-		<li> abcdefghi </li>
-
+		<li> Contact us </li>
 	</ul>
+<<<<<<< HEAD
 	<b>DEll G3</b>
+=======
 	<marquee> Web Designing </marquee>
+>>>>>>> ff49c599c8f45421ac646bf4241d96beb888197a
 
 </body>
 </html>
